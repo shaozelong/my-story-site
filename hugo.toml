@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zn-ch'
+title = '前前爸故事集'
+theme = 'ananke'
